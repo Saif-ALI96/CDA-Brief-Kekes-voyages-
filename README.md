@@ -16,7 +16,12 @@ Les règles de gestion suivantes régissent la conception de l'application :
 * Les réservations sont réalisées par les clients, ils peuvent réserver un ou plusieurs vols pour un ou plusieurs passagers.
 * Une réservation concerne un seul vol et un seul passager.
 * Une réservation peut être confirmée ou annulée par les clients.
+___
+### Liens de documentation
 
+* <a href="https://github.com/Saif-ALI96/CDA-Brief-Kekes-voyages-/blob/dev/Documentation%20Projet.pdf">***Diagrammes de cas d'utilisation et de classes***</a>
+* <a href="https://github.com/Saif-ALI96/CDA-Brief-Kekes-voyages-/blob/dev/Documentation%20S%C3%A9quence%20-%20Client.pdf">***Diagrammes de séquences Client***</a>
+* <a href="https://github.com/Saif-ALI96/CDA-Brief-Kekes-voyages-/blob/dev/Documentation%20S%C3%A9quence%20-%20Platforme.pdf">***Diagrammes de séquences Plateforme***</a>
 ___
 ### *Contributeur.ices*
 
